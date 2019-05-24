@@ -3,4 +3,5 @@
 "hello BeiJing222" 
 "hello HaiDian" 
 "push to remote  " 
-"eriten  by  master" 
+"local line on jupiter" 
+remote  line  on www.github"writen  by  feature" 
